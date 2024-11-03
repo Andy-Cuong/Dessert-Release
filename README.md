@@ -1,6 +1,6 @@
-Dessert Release App - Starter Code
+Dessert Release App
 =================================
-Starter code for the Android Basics with Compose: Dessert Release app.
+Solution code by learner for the [Android Basics with Compose: Dessert Release app](https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-release).
 
 Introduction
 ------------
